@@ -1,3 +1,8 @@
+deployed to the Goerli devnet apr 10th 
+goerli etherscan public address 0x31FA58eA37b0D532112fE5EB07577431b7201053
+updated paralax background
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
